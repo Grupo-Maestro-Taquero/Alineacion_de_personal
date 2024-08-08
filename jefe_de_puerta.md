@@ -1,32 +1,31 @@
-# Perfil del Jefe de Puerta - Maestro Taquero
+# Jefe de Puerta - Maestro Taquero
 
 ## Objetivo Principal
-**Garantizar una excelente experiencia desde el primer contacto con el restaurante, asegurando una recepción y despedida memorables para los invitados.**
+**Garantizar una excelente experiencia del invitado.**
 
 ## Responsabilidades
+- **Recepción y despedida memorable para los invitados.**
 
 ### Recepción y Atención al Cliente
 - **Primer Filtro**: Encargado de la recepción de los invitados, garantizando una buena atención desde el primer contacto con el restaurante (hostess).
 - **Conversación Amigable**: Entablar una conversación amigable para pedir los datos de la mesa (nombre, número de invitados, sección, necesidades, alérgenos, etc.).
 - **Control de Lista de Espera**: Llevar control de la lista de espera y reservaciones.
-- **Despedida de Invitados**: Atender cualquier inconformidad o sugerencia del invitado a su salida y despedir al invitado.
-- **Responder Consultas**: Responder consultas o dudas del invitado.
+- **Despedida de Invitados**: Atender cualquier inconformidad o sugerencia del invitado  al despedirlo.
 - **Conocimiento del Menú**: Saber el menú completo para responder preguntas y hacer recomendaciones.
-- **Atención en Horas Rush**: Estar presente durante las horas rush del restaurante (apertura/cierre).
+- **Atención en Horas Rush**: Estar presente media hora antes de la apertura del restaurante y una hora antes del cierre.
 
 ### Coordinación y Comunicación
 - **Comunicación con Jefes de Área**: Mantener mucha comunicación con jefes de área para la mejor atención de los invitados (asignación de mesas).
-- **Realización de Horarios**: Realización de rol de horarios junto con el gerente.
 - **Supervisión de Personal**: Supervisar el uniforme y equipo de trabajo de la gente a su cargo.
 - **Mantener Área Limpia**: Mantener el área de recepción limpia junto a su equipo de trabajo.
 - **Ayuda al Equipo de Salón**: Ayudar a miembros del equipo de salón siempre y cuando se pueda.
 
 ### Habilidades y Competencias
-- **Organización**: Habilidad de organización para manejar múltiples funciones y tareas.
+- **Organización**: Control del invitado, control de su equipo de trabajo y recepción de indicaciones.
 - **Resolución de Problemas**: Facilidad de resolución para atender y solucionar problemas rápidamente.
 - **Trabajo en Equipo**: Capacidad de trabajar en equipo, especialmente bajo presión.
 - **Buena Presentación**: Mantener una buena presentación personal.
-- **Actitud Positiva**: Mantener siempre una actitud positiva y sonriente.
+- **Actitud Positiva**: Mantener siempre una actitud positiva y **sonriente**.
 - **Conocimientos Informáticos**: Conocimientos básicos de informática y manejo de OpenTable.
 - **Conocimiento de Idiomas**: Conocimiento de otro idioma (deseable).
 

@@ -5,7 +5,7 @@
 
 ## Principales Responsabilidades
 - Boquete
-- Check Line
+- Line Check
 - Producción
 - Capacitar al personal
 - Delegar responsabilidades
@@ -24,12 +24,11 @@
 - Supervisar producción.
 - Horarios.
 - Lista para propinas.
-- Capacitación de su personal.
-- Line check.
+- Gestión del personal a cargo.
 - Solución de problemas.
 
 ### Preparación de Alimentos
-- Supervisi{on del montaje correcto de las áreas:
+- Supervisión del montaje correcto de las áreas:
     - Suadero
     - Pastor
     - Plancha
@@ -38,8 +37,8 @@
     - Aguas
 
 ### Control de Calidad y desarrollo
-- Line check.
 - Crear nuevos platillos.
+- Ejecutar los platillos en su mejor versión posible.
 
 ### Inventarios y Mantenimiento
 - Realizar inventarios.

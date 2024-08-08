@@ -1,29 +1,31 @@
-## Hostess
+# Hostess - Maestro Taquero
 
-### Preparación y Mantenimiento del Área
-- Limpiar el podio.
-- Mantener limpia el área de trabajo.
-- Mantener limpia la entrada.
-- Llenar y limpiar el barril de cerveza internamente.
-- Acomodar el barril de cerveza para recepción.
-- Bajar cajas de la cámara.
-- Lavar trapos y dosiers.
-- Cortar dosiers.
-- Bajar cortinas.
+## Objetivo Principal
+**Garantizar una excelente experiencia del invitado.**
 
-### Asignación y Gestión de Mesas
-- Asignar mesas a los meseros.
-- Asignar estaciones a los meseros.
-- Llevar control de mesas con Open Table.
-- Asignar la lista de espera.
+## Responsabilidades
+- **Recepción y despedida memorable para los invitados.**
 
-### Atención al Cliente
-- Ser amable con los clientes.
-- Llevar a los comensales a la mesa.
-- Mencionar promociones del día.
-- Hacer recomendaciones con las especialidades.
-- Atención a pedidos para llevar y Uber.
+### Recepción y Atención al Cliente
+- **Primer Filtro**: Encargado de la recepción de los invitados, garantizando una buena atención desde el primer contacto con el restaurante (hostess).
+- **Conversación Amigable**: Entablar una conversación amigable para pedir los datos de la mesa (nombre, número de invitados, sección, necesidades, alérgenos, etc.).
+- **Control de Lista de Espera**: Llevar control de la lista de espera y reservaciones.
+- **Despedida de Invitados**: Atender cualquier inconformidad o sugerencia del invitado  al despedirlo.
+- **Conocimiento del Menú**: Saber el menú completo para responder preguntas y hacer recomendaciones.
 
-### Manejo de Pedidos y Reportes
-- Atender pedidos de Uber.
-- Manejo de reportes emergentes.
+### Coordinación y Comunicación
+- **Comunicación con Jefes de Puerta**: Mantener mucha comunicación con jefe de puerta para la mejor atención de los invitados (asignación de mesas).
+- **Mantener Área Limpia**
+
+### Habilidades y Competencias
+- **Trabajo en Equipo**: Capacidad de trabajar en equipo, especialmente bajo presión.
+- **Buena Presentación**: Mantener una buena presentación personal.
+- **Actitud Positiva**: Mantener siempre una actitud positiva y **sonriente**.
+- **Conocimientos Informáticos**: Conocimientos básicos de informática y manejo de OpenTable.
+- **Conocimiento de Idiomas**: Conocimiento de otro idioma (deseable).
+
+### Funciones Detalladas
+- **Recepción de Invitados**: Asegurar una bienvenida cálida y amigable, registrando los datos necesarios para la asignación de mesa.
+- **Manejo de Reservaciones**: Gestionar y organizar la lista de espera y las reservaciones, asegurando una fluida asignación de mesas.
+- **Comunicación Eficiente**: Coordinar con el jefe de puerta para asegurar una asignación eficiente de mesas y atención adecuada a las necesidades de los invitados.
+- **Atención y Despedida de Invitados**: Responder a consultas, atender inconformidades y asegurar una despedida cordial de los invitados.
