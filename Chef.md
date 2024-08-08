@@ -46,4 +46,4 @@
 - Bitácoras de mantenimiento para el gerente.
 - Limpieza de campanas.
 - Limpieza de cocina en general.
-- Supervisi{on de áreas limpias al final del turno.
+- Supervisión de áreas limpias al final del turno.
