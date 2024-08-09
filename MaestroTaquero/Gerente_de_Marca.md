@@ -16,3 +16,5 @@
 - Dirigir el proceso de reclutamiento y contratación para cubrir las necesidades de personal en las unidades de la marca.
 - Fomentar el crecimiento de las ventas en todas las unidades.
 - Implementar y promover ideas innovadoras que impulsen el éxito del negocio.
+- Concentración de reportes administrativos de las diferentes unidades de la marca para su presentación e interpretación.
+- Desarrollo de planes ejecutivos en función del estado de las unidades y los indicadores de Dirección Operativa.
