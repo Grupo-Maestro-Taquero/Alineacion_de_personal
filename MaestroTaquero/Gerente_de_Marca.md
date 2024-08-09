@@ -1,7 +1,7 @@
 # Gerente de Marca
 
 ## Objetivo Principal
-**Gestionar efectivamente las operaciones, optimización de recursos y el fortalecimiento de la imagen de la marca en todas sus unidades.**
+**Gestionar efectivamente las operaciones de todas sus unidades.**
 
 ### Supervisión y Operaciones
 - Garantizar y mejorar continuamente la operación de la marca a través de indicadores de rendimiento semanales.
