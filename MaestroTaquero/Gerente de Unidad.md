@@ -55,6 +55,7 @@
 
 ## Relaciones y Comunicación
 - Estar siempre atento al funcionamiento del área del Valet.
+- Fomentar la fidelidad con el invitado.
 
 ## Otras Tareas
 - Apertura de unidad de negocio.
