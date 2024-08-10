@@ -4,7 +4,7 @@
 **Garantizar la ejecución y estándarización de los platillos.**
 
 ## Principales Responsabilidades
-- Boquete
+- Boquete enfoque total
 - Line Check
 - Producción
 - Capacitar al personal
