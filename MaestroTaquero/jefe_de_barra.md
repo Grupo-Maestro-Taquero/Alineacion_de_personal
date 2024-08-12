@@ -1,5 +1,8 @@
 # Jefe de Barra
 
+## Objetivo Principal
+**Garantizar la ejecución y estándarización de las bebidas.**
+
 ## Responsabilidades:
 
 - Revisar el pedido de suministros y organizar los productos recibidos.
