@@ -1,18 +1,19 @@
 # Cajero
 
-- checar fondos de caja
-- Abrir sistema de punto de venta
-- Ingresar gastos (como se vayan presentando)
-- Hacer cobros
-- Hacer salvaguardas (cada $ 7,500)
-- Archivar corte de día anterior (bancarias, descuentos, gastos, cumpleañeros)
-- Separar bancarias, consumos, Uber, y descuentos del día
-- Hacer pago de propinas de vendedores
-- Sacar tira de corte de vendedores
-- Hacer llenado DBCL
-- Apartar fondo de caja
-- Entregar salva guardas
-- Anudar evidencias de descuento, bancarias, gastos y propinas, a administración
-- Hacer cierre de sistema de punto de venta
-- Limpieza de caja
-- Depuración mensual de archivos
+## Responsabilidades:
+- Verificar y asegurar los fondos de caja al inicio de cada turno.
+- Abrir y gestionar el sistema de punto de venta (POS).
+- Registrar los gastos conforme se presenten.
+- Procesar cobros de manera eficiente y precisa.
+- Realizar salvaguardas cada vez que se acumulen $7,500 en caja.
+- Archivar el corte del día anterior, incluyendo documentos bancarios, descuentos, gastos y registros de cumpleañeros.
+- Clasificar y separar las transacciones del día, tales como bancarias, consumos, Uber, y descuentos.
+- Gestionar el pago de propinas a los vendedores.
+- Emitir y revisar la tira de corte de los vendedores.
+- Completar y actualizar el registro DBCL (Diario de Caja y Bancos Local).
+- Reservar el fondo de caja necesario para el siguiente turno.
+- Entregar las salvaguardas al área correspondiente.
+- Adjuntar y enviar evidencias de descuentos, transacciones bancarias, gastos y propinas a administración.
+- Cerrar el sistema de punto de venta de forma segura al finalizar el turno.
+- Mantener la limpieza y el orden en la estación de caja.
+- Realizar la depuración mensual de archivos para mantener la organización y actualización de los registros.
