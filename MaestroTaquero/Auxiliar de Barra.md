@@ -1,4 +1,7 @@
-## Auxiliar de Barra
+# Bar Back
+
+## Objetivo Principal
+**Apoyar a todo el personal de barra en las tareas que se requieran.**
 
 ### Gestión de Productos
 - Subir producto.
@@ -20,4 +23,5 @@
 
 ### Asistencia
 - Ayudar a meseros.
-- Cubrir la fuente.
+- Cubrir la posición de "Fuentero".
+- Apoyo en servicio de áreas

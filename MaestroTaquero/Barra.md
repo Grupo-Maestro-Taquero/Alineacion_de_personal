@@ -1,7 +1,9 @@
-## Barra
+# Bartender
 
-### Gestión de Pedidos y Productos
-- Hacer pedido.
+## Objetivo Principal
+**Ejecutar en tiempo y forma las diferentes bebidas y productos de esta área**
+
+### Manejo de Pedidos y Productos
 - Subir pedido.
 - Rotación de producto.
 - Acomodado de producto.
@@ -9,6 +11,7 @@
 - Rotación de pasteles y perros.
 
 ### Preparación y Servicio
+- Recibir indicaciones del jefe de barra
 - Hacer garnituras.
 - Montar barra.
 - Hacer producción.

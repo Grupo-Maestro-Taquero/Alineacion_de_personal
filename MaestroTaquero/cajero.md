@@ -2,7 +2,7 @@
 
 ## Objetivo Principal
 
-Administrar las operaciones de caja de manera correcta y eficiente, manteniendo el control de los recursos.
+**Administrar las operaciones de caja de manera correcta y eficiente, manteniendo el control de los recursos.**
 
 ## Responsabilidades:
 
