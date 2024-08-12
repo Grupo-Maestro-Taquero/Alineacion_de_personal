@@ -1,31 +1,12 @@
 # Bartender
 
 ## Objetivo Principal
-**Ejecutar en tiempo y forma las diferentes bebidas y productos de esta área**
+**Ejecutar en tiempo y forma las diferentes bebidas y productos de esta área.**
 
-### Manejo de Pedidos y Productos
-- Subir pedido.
-- Rotación de producto.
-- Acomodado de producto.
-- Recibir perros de gelatina y pasteles.
-- Rotación de pasteles y perros.
-
-### Preparación y Servicio
-- Recibir indicaciones del jefe de barra
-- Hacer garnituras.
-- Montar barra.
-- Hacer producción.
-- Hacer bebidas y servir tragos.
-- Servir postres y cervezas.
-- Poner fruta buena.
-
-### Control de Calidad
-- Ver la calidad.
-- Ver que salga en tiempo y forma.
-
-### Limpieza y Mantenimiento
-- Limpieza de barra.
-- Lavar vasos.
-
-### Inventario
-- Inventario de postres.
+### Responsabilidades:
+- **Preparación de Bebidas**: Elaborar y servir bebidas de acuerdo con los estándares de calidad y presentación definidos.
+- **Manejo de Productos**: Organizar y mantener el stock de bebidas y garnituras, asegurando que todos los insumos estén disponibles y en orden.
+- **Limpieza y Mantenimiento**: Mantener la barra limpia y organizada, incluyendo la limpieza de vasos, utensilios y equipos de trabajo.
+- **Supervisión y Control**: Revisar y controlar los inventarios de productos, alcohol y cristalería, reportando cualquier faltante.
+- **Atención al Cliente**: Ofrecer un servicio amable y eficiente, asegurando que los pedidos se entreguen correctamente y a tiempo.
+- **Colaboración en Equipo**: Trabajar en coordinación con el resto del personal de barra y otros departamentos para asegurar un servicio fluido.

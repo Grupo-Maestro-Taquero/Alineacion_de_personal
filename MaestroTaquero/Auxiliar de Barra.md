@@ -3,25 +3,10 @@
 ## Objetivo Principal
 **Apoyar a todo el personal de barra en las tareas que se requieran.**
 
-### Gestión de Productos
-- Subir producto.
-- Acomodar producto.
-- Acomodar cámara fría.
-
-### Preparación y Montaje
-- Montar la barra.
-- Poner tapetes.
-- Montar postres.
-- Hacer producción.
-- Preparo bebidas.
-- Preparo cafés.
-- Sirvo cervezas.
-
-### Limpieza y Mantenimiento
-- Lavar vasos.
-- Limpiar la barra.
-
-### Asistencia
-- Ayudar a meseros.
-- Cubrir la posición de "Fuentero".
-- Apoyo en servicio de áreas
+### Responsabilidades:
+- **Manejo de Productos**: Subir, organizar y acomodar los productos en la barra.
+- **Preparación y Montaje**: Montar la barra, preparar bebidas y cafés, y asegurar que todo esté listo para el servicio.
+- **Limpieza y Mantenimiento**: Mantener la barra limpia, lavar vasos y utensilios, y asegurarse de que el área esté en perfecto estado.
+- **Apoyo General**: Asistir al bartender y al barback en la preparación de bebidas, y apoyar en cualquier otra tarea que se necesite durante el servicio.
+- **Organización y Logística**: Gestionar el inventario básico de productos, asegurando que todo esté disponible y en orden.
+- **Cierre**: Ayudar en el cierre de la barra, asegurando que todo esté limpio y preparado para el siguiente turno.
