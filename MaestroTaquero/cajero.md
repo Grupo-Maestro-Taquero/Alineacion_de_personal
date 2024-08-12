@@ -1,11 +1,16 @@
 # Cajero
 
+## Objetivo
+
+Administrar las operaciones de caja de manera correcta y eficiente, manteniendo el control de los recursos.
+
 ## Responsabilidades:
+
+- Procesar cobros de manera eficiente y precisa.
 - Verificar y asegurar los fondos de caja al inicio de cada turno.
 - Abrir y gestionar el sistema de punto de venta (POS).
 - Registrar los gastos conforme se presenten.
-- Procesar cobros de manera eficiente y precisa.
-- Realizar salvaguardas cada vez que se acumulen $7,500 en caja.
+- Realizar salvaguardas cada vez que se acumule la cantidad máxima permitida en caja.
 - Archivar el corte del día anterior, incluyendo documentos bancarios, descuentos, gastos y registros de cumpleañeros.
 - Clasificar y separar las transacciones del día, tales como bancarias, consumos, Uber, y descuentos.
 - Gestionar el pago de propinas a los vendedores.
