@@ -18,7 +18,7 @@
 
 ### 4. **Higiene y Seguridad**
 
-- Seguir normas de higieme y seguridad
+- Seguir normas de higiene y seguridad
 - Mantenimiento de un Entorno Limpio
 
 ### 5. **Adaptabilidad**
