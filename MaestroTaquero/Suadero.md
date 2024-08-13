@@ -6,7 +6,7 @@
 
 ### Responsabilidades:
 
-- **Preparación de Carnes**: Cocinar las proteínas asignadas (suadero, cabeza, y tripa), asegurando que estén bien sazonadas y cocidas a la perfección.
+- **Preparación de proteínas**: Cocinar las proteínas asignadas (suadero, cabeza, y tripa), asegurando que estén bien sazonadas y cocidas a la perfección.
 - **Cocción Adecuada**: Manejar la cocción de estas proteínas en vapor y chorizera, siguiendo los tiempos y temperaturas adecuados para cada tipo.
 - **Preparación de Tacos**: Cortar y preparar tacos y otros productos derivados de las proteínas, asegurando una presentación atractiva y apetitosa.
 - **Mantenimiento de la Estación**: Mantener limpia y ordenada la estación de trabajo, incluyendo la plancha, cuchillos y otros utensilios.

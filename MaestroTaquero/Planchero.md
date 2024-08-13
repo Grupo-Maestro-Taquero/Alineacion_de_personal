@@ -6,7 +6,7 @@
 
 ### Responsabilidades:
 
-- **Cocinar en la Plancha**: Preparar carnes, vegetales y otros ingredientes en la plancha, siguiendo los tiempos y métodos adecuados.
+- **Cocinar en la Plancha**: Preparar proteínas, vegetales y otros ingredientes en la plancha, siguiendo los tiempos y métodos adecuados.
 - **Montar los Platillos**: Asegurar que los platillos estén bien presentados al terminar de ejecutarlos.
 - **Mantener la Estación Limpia**: Mantener la plancha y la zona de trabajo limpias y ordenadas.
 - **Controlar Ingredientes**: Verificar que haya suficientes ingredientes y pedir más si es necesario.
