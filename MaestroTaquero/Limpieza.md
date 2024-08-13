@@ -1,25 +1,11 @@
-## Limpieza
+# Limpieza
 
-### Limpieza de Baños
-- Limpieza de baños por fuera y por dentro.
-- Cambio de Sanitas y papel de baño.
-- Relleno de shampoo para manos.
+## Objetivo Principal
+** Mantener todas las áreas del restaurante limpias y ordenadas.**
 
-### Limpieza de Áreas Comunes
-- Limpieza de comedor.
-- Mantener limpias las mesas.
-- Barrer y trapear pasillos, salón y baños.
-- Recolección de basura de todos los botes.
-
-### Mantenimiento de Material y Equipos
-- Lavado de mechudos.
-- Acomodo del material de almacén.
-- Porcionado de jabón.
-
-### Limpieza de Superficies
-- Limpieza de vidrios y espejos.
-- Barrer y trapear cuando es necesario.
-
-### Otras Tareas
-- Recojo trastes sucios.
-- Barrer pasillos.
+### Responsabilidades:
+- **Limpieza de Áreas Comunes**: Barrer, trapear y desinfectar el salón, pasillos, baños y otras áreas comunes.
+- **Mantenimiento de Baños**: Reponer suministros y asegurar la limpieza continua de los baños.
+- **Gestión de Residuos**: Recoger y desechar la basura de manera adecuada, asegurando la correcta separación de residuos.
+- **Limpieza de Utensilios**: Lavar y almacenar correctamente los utensilios de limpieza después de su uso.
+- **Soporte General**: Apoyar en tareas adicionales de limpieza según se requiera.

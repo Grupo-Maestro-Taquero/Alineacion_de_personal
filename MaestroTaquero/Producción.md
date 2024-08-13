@@ -1,39 +1,13 @@
-## Producción
+# Producción
 
-### Preparación de Salsas y Acompañamientos
-- Hacer y montar salsas.
-- Hacer puré de papa.
-- Hacer cebolla encurtida.
-- Hacer pico de gallo.
-- Hacer guacamole.
-- Hacer frijoles.
-- Preparación de chiles.
-- Preparación de champiñones.
-- Preparación de flor de calabaza.
-- Hacer nopales.
-- Hacer chirivia.
-- Hacer corales.
-- Hacer caldo arriero.
-- Hacer spicy tamarindo.
+## Objetivo Principal
 
-### Preparación de Platos Específicos
-- Saco servicio de Tacos Doña Rosa.
-- Saco servicio de Puerco Pulpo.
-- Tacos rosas.
-- Hacer la tinga.
-- Preparación de milanesa de ternera.
-- Cocción de brisket.
+**Preparar los ingredientes y productos necesarios para que la cocina funcione sin problemas durante el servicio.**
 
-### Mantenimiento y Limpieza
-- Limpiar la estufa.
-- Limpiar el área.
-- Limpiar la calle.
+### Responsabilidades:
 
-### Corte y Porcionado de Ingredientes
-- Pico cilantro.
-- Pico cebolla.
-- Porcionar ingredientes.
-
-### Inventario y Organización
-- Hacer inventario de platos.
-- Mantener la lista de producción.
+- **Preparación de Ingredientes**: Lavar, cortar y medir ingredientes como vegetales y carnes, siguiendo las recetas del restaurante.
+- **Elaboración de Salsas y Guarniciones**: Preparar salsas y acompañamientos que se usan en los platillos del menú.
+- **Manejo de Existencias**: Verificar que haya suficientes ingredientes y reportar si falta algo.
+- **Limpieza del Área de Trabajo**: Mantener limpia y ordenada la zona de trabajo, siguiendo las reglas de higiene.
+- **Apoyo en la Cocina**: Ayudar en otras tareas necesarias para que el servicio en la cocina sea eficiente.

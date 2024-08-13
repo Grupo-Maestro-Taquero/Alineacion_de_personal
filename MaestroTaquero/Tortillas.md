@@ -1,14 +1,13 @@
-## Tortillas
+# Tortillas
 
-### Preparación de Masa y Tortillas
-- Amasamiento de masa y materia prima.
-- Hacer tortillas para tacos tradicionales.
-- Hacer tortillas para tacos Maestro.
-- Hacer tortillas para tacos de especialidades.
-- Hacer huaraches.
-- Hacer sopes.
+## Objetivo Principal
 
-### Mantenimiento y Limpieza
-- Lavado de trapos.
-- Lavado de plancha.
-- Limpieza de toda la estación.
+**Hacer y cocinar tortillas frescas y otros productos de masa para que estén siempre listos y en su mejor calidad durante el servicio.**
+
+### Responsabilidades:
+
+- **Preparar la Masa**: Mezclar y amasar la masa para tortillas, huaraches, sopes y otros productos.
+- **Cocinar Tortillas**: Cocinar tortillas de maíz y harina, asegurando que estén bien hechas y listas para servir.
+- **Mantener la Estación Limpia**: Mantener limpia y ordenada la zona de trabajo, incluyendo la plancha y utensilios.
+- **Verificar Insumos**: Asegurarse de que haya suficiente masa e ingredientes, y avisar si se necesita más.
+- **Ayudar en la Cocina**: Colaborar en otras tareas de la cocina cuando sea necesario.

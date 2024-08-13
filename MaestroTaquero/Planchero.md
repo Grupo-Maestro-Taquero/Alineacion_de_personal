@@ -1,38 +1,32 @@
-## Planchero
+# Planchero
 
-### Preparación de Ingredientes
-- Deshebrar y rallar queso.
-- Picar verduras (cebolla, pimientos, rábanos, jitomate).
-- Cortar carnes y chistorra.
-- Porcionar verdura.
-- Cocer tuétanos.
-- Picar rábanos.
+## Objetivo Principal
+**Cocinar y preparar alimentos en la plancha, asegurando que cada platillo sea delicioso, bien cocido y presentado de manera atractiva.**
 
-### Preparación de Platos
-- Hacer tostadas.
-- Preparar gringas y volcanes.
-- Hacer pastor.
-- Hacer molcajetes.
-- Calentar tortillas.
-- Montar especialidades.
-- Preparar puré, champiñones y flor de calabaza.
-- Montar choricera.
+### Responsabilidades:
 
-### Mantenimiento y Organización de Estaciones
-- Rellenar mamilas y saleros.
-- Acomodar la línea y repisas.
-- Acomodo de carnes y congelador.
-- Curo plancha y cubro plancha 4 y 5.
-- Acomodar carnes en la estación.
-- Vaciar la piña.
+1. **Cocción de Alimentos**
+   - **Cocinar en la Plancha**: Preparar carnes, vegetales y otros ingredientes en la plancha, siguiendo los tiempos y métodos adecuados para que los platillos queden perfectos.
+   - **Control de Tiempos**: Cocinar los alimentos el tiempo justo para que no queden crudos ni pasados, y estén listos para servir en el momento adecuado.
+   - **Manejo de Temperaturas**: Ajustar la temperatura de la plancha según el tipo de alimento, para asegurar una cocción correcta.
 
-### Limpieza y Mantenimiento del Área
-- Barrer y limpiar el área.
-- Mantener el área de trabajo ordenada.
-- Limpiar y barrer el área al final del turno.
+2. **Manejo de Ingredientes**
+   - **Preparación Previa**: Picar, cortar y porcionar los ingredientes antes de cocinarlos, para que todo esté listo y organizado durante el servicio.
+   - **Almacenamiento**: Guardar correctamente los ingredientes antes y después de su uso, siguiendo las normas de higiene.
 
-### Otras Tareas
-- Calentar piedras.
-- Cubrir suadero.
-- Pesaje de carnes de entrada.
-- Estar en la estación de salsas.
+3. **Montaje y Presentación de Platillos**
+   - **Montaje de Platillos**: Armar los platillos después de cocinarlos, siguiendo las indicaciones para que se vean bien presentados.
+   - **Verificación de Calidad**: Revisar cada platillo antes de enviarlo a la mesa para asegurarse de que esté bien cocido y presentado.
+
+4. **Limpieza y Mantenimiento**
+   - **Limpieza de la Plancha**: Mantener la plancha y el área de trabajo limpias durante y después del turno, asegurando que el equipo esté en buen estado.
+   - **Higiene y Seguridad**: Seguir las normas de higiene al limpiar la plancha y al manejar los alimentos, para evitar contaminaciones.
+   - **Revisión de Equipos**: Reportar cualquier problema o necesidad de mantenimiento de la plancha o de otros equipos.
+
+5. **Colaboración en la Cocina**
+   - **Trabajo en Equipo**: Trabajar bien con otros miembros de la cocina para asegurarse de que los pedidos se preparen a tiempo y con buena calidad.
+   - **Comunicación Efectiva**: Mantener una buena comunicación con los compañeros de cocina para coordinar la preparación de los platillos y resolver cualquier problema que surja.
+
+6. **Manejo de Inventarios**
+   - **Control de Insumos**: Monitorear los ingredientes específicos para la plancha y pedir más cuando sea necesario, asegurando que nunca falten durante el servicio.
+   - **Minimización de Desperdicios**: Cocinar de manera eficiente para evitar el desperdicio de alimentos y aprovechar bien los ingredientes.
