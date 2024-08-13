@@ -2,7 +2,7 @@
 
 ## Objetivo Principal
 
-**Hacer y cocinar tortillas frescas y otros productos de masa para que estén siempre listos y en su mejor calidad durante el servicio.**
+**Preparar tortillas frescas y otros productos de masa para que estén siempre listos y en su mejor calidad durante el servicio.**
 
 ### Responsabilidades:
 
