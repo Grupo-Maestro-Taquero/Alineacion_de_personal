@@ -6,7 +6,7 @@
 ### Responsabilidades:
 
 - **Preparación del Suadero**: Cocinar la carne de suadero, asegurando que esté bien sazonada y cocida a la perfección.
-- **Cocción de la Carne**: Manejar la cocción del suadero en la plancha o comal, siguiendo los tiempos y temperaturas adecuados para mantener la calidad.
+- **Cocción de la Carne**: Manejar la cocción del suadero en la plancha, siguiendo los tiempos y temperaturas adecuados para mantener la calidad.
 - **Preparación de Tacos**: Cortar y preparar tacos de suadero y otros productos derivados, asegurando una presentación atractiva y apetitosa.
 - **Mantenimiento de la Estación**: Mantener limpia y ordenada la estación de trabajo, incluyendo la plancha, cuchillos y otros utensilios.
 - **Control de Insumos**: Verificar que haya suficiente carne de suadero e ingredientes necesarios, y solicitar reabastecimiento cuando sea necesario.
