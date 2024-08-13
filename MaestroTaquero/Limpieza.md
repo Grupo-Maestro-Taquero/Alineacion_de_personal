@@ -1,7 +1,8 @@
 # Limpieza
 
 ## Objetivo Principal
-** Mantener todas las áreas del restaurante limpias y ordenadas.**
+
+**Mantener todas las áreas del restaurante limpias y ordenadas.**
 
 ### Responsabilidades:
 - **Limpieza de Áreas Comunes**: Barrer, trapear y desinfectar el salón, pasillos, baños y otras áreas comunes.
