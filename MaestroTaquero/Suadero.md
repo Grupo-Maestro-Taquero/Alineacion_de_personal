@@ -11,5 +11,3 @@
 - **Mantenimiento de la Estación**: Mantener limpia y ordenada la estación de trabajo, incluyendo la plancha, cuchillos y otros utensilios.
 - **Control de Insumos**: Verificar que haya suficiente carne de suadero e ingredientes necesarios, y solicitar reabastecimiento cuando sea necesario.
 - **Colaboración en la Cocina**: Trabajar en conjunto con otros miembros del equipo de cocina para asegurar un servicio fluido y eficiente.
-
-Este perfil del Suadero se enfoca en las responsabilidades clave y asegura que la función de esta posición sea clara y bien entendida.
