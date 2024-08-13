@@ -1,13 +1,14 @@
-# Suadero
+# Suadero/Cabeza/Tripa
 
 ## Objetivo Principal
-**Preparar y cocinar tacos de suadero y productos derivados de manera correcta y con buena presentación.**
+
+**Preparar y cocinar tacos y productos derivados de suadero, cabeza, y tripa, ejecutando con buena calidad y presentación.**
 
 ### Responsabilidades:
 
-- **Preparación del Suadero**: Cocinar la carne de suadero, asegurando que esté bien sazonada y cocida a la perfección.
-- **Cocción de la Carne**: Manejar la cocción del suadero en la plancha, siguiendo los tiempos y temperaturas adecuados para mantener la calidad.
-- **Preparación de Tacos**: Cortar y preparar tacos de suadero y otros productos derivados, asegurando una presentación atractiva y apetitosa.
+- **Preparación de Carnes**: Cocinar las carnes asignadas (suadero, cabeza, y tripa), asegurando que estén bien sazonadas y cocidas a la perfección.
+- **Cocción Adecuada**: Manejar la cocción de estas carnes en la plancha, siguiendo los tiempos y temperaturas adecuados para cada tipo.
+- **Preparación de Tacos**: Cortar y preparar tacos y otros productos derivados de las carnes, asegurando una presentación atractiva y apetitosa.
 - **Mantenimiento de la Estación**: Mantener limpia y ordenada la estación de trabajo, incluyendo la plancha, cuchillos y otros utensilios.
-- **Control de Insumos**: Verificar que haya suficiente carne de suadero e ingredientes necesarios, y solicitar reabastecimiento cuando sea necesario.
+- **Control de Insumos**: Verificar que haya suficientes ingredientes y carnes, y solicitar reabastecimiento cuando sea necesario.
 - **Colaboración en la Cocina**: Trabajar en conjunto con otros miembros del equipo de cocina para asegurar un servicio fluido y eficiente.
