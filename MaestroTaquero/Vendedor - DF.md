@@ -1,13 +1,13 @@
 # Vendedor - Don Frank
 
 ## Objetivo Principal
-**Asegurar que cada comensal tenga una excelente experiencia, desde su llegada hasta que termine su comida**
+**Optimizar la venta y el servicio**
 
 ### Responsabilidades:
 
 - **Montaje y Preparación**:
   - Preparar y montar las mesas antes de que lleguen los comensales.
-  - Mantener limpio el salón y asegurarse de que las salsas estén en buen estado.
+  - Mantener limpio y ordenado el salón.
 
 - **Atención al Cliente**:
   - Presentarse al comensal de manera amable.
