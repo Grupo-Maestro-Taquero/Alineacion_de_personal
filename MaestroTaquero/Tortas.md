@@ -18,3 +18,8 @@
 - **Porcionado y Control**:
   - Pesar carnes y quesos para asegurarse de que las porciones sean correctas.
   - Hacer inventario de los sobrantes para controlar el uso de ingredientes.
+
+- limpieza
+ ingredientes
+colaborar 
+como el planchero
