@@ -1,4 +1,4 @@
-### Comodín
+# Comodín
 
 ## Objetivo Principal
 **Apoyar en diferentes áreas del restaurante para que todo funcione bien y cubrir las necesidades según sea necesario.**
