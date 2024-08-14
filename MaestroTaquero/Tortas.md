@@ -1,12 +1,12 @@
 # Tortas
 
 ## Objetivo Principal
-**Preparar tortas y otros platillos relacionados, asegurando que todo se haga correctamente y con buena calidad.**
+**Preparar tortas y los platillos asignados a esa área, asegurando que todo se ejecute correctamente.**
 
 ### Responsabilidades:
 
 - **Preparación de Platillos**:
-  - Hacer tacos de milanesa, burros y tacos de suadero.
+  - Hacer tacos de milanesa, burros, grungas, quesos fundidos, tortas, hamburguesas.
   - Cocinar queso fundido y tortillas de harina.
   - Freír papas para acompañamientos.
 
