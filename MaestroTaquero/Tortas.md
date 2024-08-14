@@ -1,20 +1,20 @@
 # Tortas
 
-## objetivo principal
+## Objetivo Principal
+**Preparar tortas y otros platillos relacionados, asegurando que todo se haga correctamente y con buena calidad.**
 
-### responsabilidades
+### Responsabilidades:
 
-- taco de milanesa
-- burros
-- queso fundido
-- tortillas de harina
-- tacos de suadero
-- gramear carnes y quesos
-- freír papas
-- cortar cebollas y jitomates
-- deshebror quesos
-- rayar quesos
-- cortar pan
-- hacer inventario de los sobrantes
-- moler frijol
-- moler chipotle
+- **Preparación de Platillos**:
+  - Hacer tacos de milanesa, burros y tacos de suadero.
+  - Cocinar queso fundido y tortillas de harina.
+  - Freír papas para acompañamientos.
+
+- **Manejo de Ingredientes**:
+  - Cortar cebollas, jitomates y pan para las tortas.
+  - Deshebrar y rallar quesos para los platillos.
+  - Moler frijoles y chipotle para salsas y acompañamientos.
+
+- **Porcionado y Control**:
+  - Pesar carnes y quesos para asegurarse de que las porciones sean correctas.
+  - Hacer inventario de los sobrantes para controlar el uso de ingredientes.
