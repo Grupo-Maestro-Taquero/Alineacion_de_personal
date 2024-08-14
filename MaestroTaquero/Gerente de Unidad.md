@@ -1,4 +1,4 @@
-# Gerente de Unidad - Maestro Taquero
+# Gerente de Unidad (Maestro Taquero)
 
 ## Objetivo Principal
 **Administrar la unidad, manteniendo e incrementando las ventas.**

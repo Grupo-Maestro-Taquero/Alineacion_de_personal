@@ -1,4 +1,4 @@
-# Capitán - Maestro Taquero
+# Capitán (Maestro Taquero)
 
 ## Objetivo Principal
 **Garantizar una gran experiencia al invitado.**

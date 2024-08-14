@@ -1,4 +1,4 @@
-# Vendedor / Mesero - Maestro Taquero
+# Vendedor / Mesero (Maestro Taquero)
 
 ## Objetivo Principal
 **Optimizar la venta y servicio**

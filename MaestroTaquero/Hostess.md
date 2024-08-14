@@ -1,4 +1,4 @@
-# Hostess - Maestro Taquero
+# Hostess (Maestro Taquero)
 
 ## Objetivo Principal
 **Garantizar una excelente experiencia del invitado.**

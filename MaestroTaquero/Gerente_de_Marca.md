@@ -1,4 +1,4 @@
-# Gerente de Marca
+# Gerente de Marca (Maestro Taquero - Don Frank)
 
 ## Objetivo Principal
 **Gestionar efectivamente las operaciones de todas sus unidades.**

@@ -1,4 +1,4 @@
-# Runner
+# Runner (Maestro Taquero)
 
 ## Objetivo Principal
 **Llevar los alimentos lo más rápido posible a la mesa del invitado.**

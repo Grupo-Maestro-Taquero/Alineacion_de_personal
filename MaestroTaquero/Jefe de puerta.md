@@ -1,4 +1,4 @@
-# Jefe de Puerta - Maestro Taquero
+# Jefe de Puerta  (Maestro Taquero)
 
 ## Objetivo Principal
 **Garantizar una excelente experiencia del invitado.**

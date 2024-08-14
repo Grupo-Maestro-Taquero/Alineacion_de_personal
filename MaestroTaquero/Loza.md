@@ -1,4 +1,4 @@
-# Loza
+# Loza (Maestro Taquero)
 
 ## Objetivo Principal
 **Mantener loza, plaque, cristalería y utensilios, limpios y organizados.**

@@ -1,4 +1,4 @@
-# Jefe de Barra
+# Jefe de Barra (Maestro Taquero)
 
 ## Objetivo Principal
 **Garantizar la ejecución y estándarización de las bebidas.**

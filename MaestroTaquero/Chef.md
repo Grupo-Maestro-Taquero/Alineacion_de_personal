@@ -1,4 +1,4 @@
-# Chef
+# Chef (Maestro Taquero)
 
 ## Objetivo Principal
 **Garantizar la ejecución y estándarización de los platillos.**

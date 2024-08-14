@@ -1,4 +1,4 @@
-# Suadero/Cabeza/Tripa
+# Suadero/Cabeza/Tripa (Maestro Taquero - Don Frank)
 
 ## Objetivo Principal
 

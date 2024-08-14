@@ -1,4 +1,4 @@
-# Pastorero
+# Pastorero (Maestro Taquero - Don Frank)
 
 ## Objetivo Principal
 **Preparar y cocinar tacos de pastor y productos derivados de manera correcta y con buena presentación.**

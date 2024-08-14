@@ -5,21 +5,20 @@
 
 ### Responsabilidades:
 
-- **Preparación de Platillos**:
+- **Preparación y montaje de Platillos**:
   - Hacer tacos de milanesa, burros, grungas, quesos fundidos, tortas, hamburguesas.
   - Cocinar queso fundido y tortillas de harina.
   - Freír papas para acompañamientos.
-
-- **Manejo de Ingredientes**:
-  - Cortar cebollas, jitomates y pan para las tortas.
-  - Deshebrar y rallar quesos para los platillos.
-  - Moler frijoles y chipotle para salsas y acompañamientos.
-
-- **Porcionado y Control**:
+	
+- **Mantener la Estación Limpia**
+	- Mantener la zona de trabajo limpia y ordenada.
+	
+- **Controlar Ingredientes** 
+	- Verificar que haya suficientes insumos y pedir más si es necesario.
+	
+- **Porcionado y Control**
   - Pesar carnes y quesos para asegurarse de que las porciones sean correctas.
   - Hacer inventario de los sobrantes para controlar el uso de ingredientes.
 
-- limpieza
- ingredientes
-colaborar 
-como el planchero
+- **Colaborar con el Equipo**
+  - Trabajar en conjunto con el resto del equipo de cocina para un servicio eficiente.

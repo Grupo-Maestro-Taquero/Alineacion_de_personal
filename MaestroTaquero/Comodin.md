@@ -1,7 +1,7 @@
-# Ayufanye General
+# Ayudante General
 
 ## Objetivo Principal
-**Apoyar en las areas del restaurante para la óptima operación.**
+**Apoyar en las áreas del restaurante para la óptima operación.**
 
 ### Responsabilidades:
 
@@ -21,16 +21,16 @@
   - Coordinar tareas con otros repartidores.
 
 - **Limpieza y Mantenimiento**:
-  - Lavar las cajas utilizadas en la cocina y durante la recepción de insumos.
-  - Trapear y limpiar áreas comunes según sea necesario.
+  - Mantener limpia y ordenada la zona de trabajo, siguiendo las reglas de higiene.
   - Talachas y otras labores que sean requeridas.
-  - Revisar la limpieza en la cocina y comunicar lo que se necesita hacer para mantenerla en buen estado.
 
 - **Apoyo Operativo y Flexibilidad**:
   - Repartir pedidos cuando sea necesario.
   - Enseñar actividades a otros empleados con una actitud proactiva.
-- Puestos a Appyar
-cocinero c
-repartidor 
-loza 
-empacador
+  - Ayudar en otras tareas necesarias para que el servicio en la cocina sea eficiente.
+
+- **Las áreas a las que se les brinda el apoyo son:**
+	- Cocinero C
+	- Repartidor 
+	- Loza 
+	- Empacador
