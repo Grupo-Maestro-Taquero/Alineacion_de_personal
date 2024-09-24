@@ -1,4 +1,4 @@
-## Gerente de Unidad
+# Gerente de Unidad
 
 ## Objetivo del Puesto
 **Dirigir y supervisar la operación, y la administración diaria de la unidad, manteniendo e incrementando las ventas y gestionando el personal.**

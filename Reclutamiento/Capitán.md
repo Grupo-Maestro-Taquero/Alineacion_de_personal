@@ -1,4 +1,4 @@
-## Capitán
+# Capitán
 
 ## Objetivo del Puesto
 Supervisar y coordinar las operaciones diarias en el área de servicio, asegurando que el equipo ofrezca una experiencia de alta calidad a los clientes, mientras se mantienen los estándares operativos y se optimizan las funciones del personal.
