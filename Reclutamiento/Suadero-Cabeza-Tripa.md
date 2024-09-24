@@ -1,22 +1,19 @@
-## Suadero/Cabeza/Tripa
+# Suadero/Cabeza/Tripa
 
-#### **Objetivo del Puesto**
+## **Objetivo del Puesto**
 Preparar y cocinar tacos de suadero, cabeza, y tripa, asegurando que todos los productos derivados cumplan con los estándares de calidad y presentación del restaurante.
 
----
+## **Requisitos**
 
-#### **Requisitos**
-
-- **Edad**: 25 a 50 años.
-- **Género**: Indistinto.
+- **Edad**: 18 a 50 años.
+- **Sexo**: Hombre.
 - **Experiencia**: Mínimo 1 año en suadero.
 - **Conocimientos**:
-  - Manejo de choricera, especialmente en la preparación de suadero, cabeza y tripa.
+  - Manejo de choricera y vapor, para la preparación de suadero, cabeza y tripa.
+  - Debe saber preparar y servir tacos de manera ordenada y con una buena presentación.
 - **Presentación**: Buena presentación personal, apropiada para el puesto y alineada con los estándares del restaurante.
 
----
-
-#### **Responsabilidades Principales**
+## **Responsabilidades Principales**
 
 - **Preparación de Carnes**:
   - Cocinar suadero, cabeza, y tripa en la choricera, asegurando que las carnes estén bien sazonadas y cocidas a la perfección.
@@ -24,14 +21,13 @@ Preparar y cocinar tacos de suadero, cabeza, y tripa, asegurando que todos los p
 
 - **Manejo de la Choricera**:
   - Operar la choricera de manera segura y eficiente, siguiendo los procedimientos establecidos para cada tipo de carne.
-  - Realizar el mantenimiento básico y la limpieza de la choricera al final de cada turno.
 
 - **Preparación de Tacos**:
-  - Cortar y preparar tacos de suadero, cabeza, y tripa, asegurando que los platillos tengan una presentación atractiva y cumplan con los estándares del restaurante.
+  - Preparar tacos de suadero, cabeza, y tripa, asegurando que los platillos tengan una presentación atractiva y cumplan con los estándares del restaurante.
   - Supervisar las porciones y la consistencia de los platillos servidos.
 
 - **Mantenimiento de la Estación**:
-  - Mantener limpia y ordenada la estación de trabajo, incluyendo la choricera, cuchillos, y otros utensilios.
+  - Mantener limpia y ordenada la estación de trabajo, incluyendo la choricera, cuchillos, y otros utensilios, antes, durante y después del servicio.
   - Asegurar que todos los insumos necesarios estén disponibles y en buen estado durante el servicio.
 
 - **Colaboración en la Cocina**:
