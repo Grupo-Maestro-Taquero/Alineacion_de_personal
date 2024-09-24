@@ -1,7 +1,7 @@
 # Gerente de Unidad (Maestro Taquero)
 
 ## Objetivo Principal
-**Administrar la unidad, manteniendo e incrementando las ventas.**
+**Dirigir y supervisar la operación, y la administración diaria de la unidad, manteniendo e incrementando las ventas y gestionando el personal.**
 
 ## Principales Responsabilidades
 - **Planear**
