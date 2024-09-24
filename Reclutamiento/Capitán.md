@@ -1,36 +1,37 @@
 ## Capitán
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Supervisar y coordinar las operaciones diarias en el área de servicio, asegurando que el equipo ofrezca una experiencia de alta calidad a los clientes, mientras se mantienen los estándares operativos y se optimizan las funciones del personal.
 
----
-
-#### **Requisitos**
+## Requisitos
 
 - **Edad**: 25 a 45 años.
-- **Género**: Indistinto.
-- **Experiencia**: Mínimo 1 año en el mismo puesto.
+- **Sexo**: Hombre.
+- **Experiencia**: Mínimo 3 años en el mismo puesto.
 - **Conocimientos**:
   - Manejo de personal.
   - Experiencia en operaciones en lugares con alta afluencia de clientes.
   - Energía y proactividad en la ejecución de tareas.
+  - Uso y gestión de software de punto de venta (POS) y otros sistemas operativos de administración de restaurantes.
+  - Realización y verificación de cortes de caja para asegurar la transparencia en las transacciones y reportes financieros.
+  - Control y supervisión de inventarios de insumos, garantizando la disponibilidad de productos y la correcta gestión de stock.
+  - Manejo integral de las actividades administrativas relacionadas con la operación del restaurante.
 - **Presentación**:
-  - Buena presentación personal.
-  - Sin tatuajes visibles.
-- **Otros**:
+  - Presentación impecable: La imagen del capitán es un reflejo directo de la calidad del restaurante. Es fundamental que el candidato mantenga un alto nivel de cuidado en su apariencia personal, incluyendo una vestimenta limpia y bien planchada, zapatos boleados y una actitud siempre profesional. El uso del uniforme adecuado es esencial para proyectar confianza y liderazgo ante los comensales y el equipo de trabajo.
+  - Higiene personal: Se espera que el capitán tenga especial atención en su aseo personal, manteniendo una higiene adecuada que refleje profesionalismo.
+  - Sin tatuajes visibles: Aunque se permiten tatuajes, estos no deben ser visibles al interactuar con los clientes, asegurando una apariencia acorde con la imagen del restaurante.
+- **Aspectos a considerar**:
   - Estabilidad laboral de al menos un año y medio en empleos anteriores.
   - Actitud de servicio.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Supervisión Operativa**:
   - Supervisar y coordinar la operación del equipo de servicio en el área asignada, asegurando que todos cumplan con sus responsabilidades de manera efectiva.
   - Garantizar que el servicio al cliente se realice de acuerdo con los estándares de calidad del restaurante, brindando una experiencia excepcional a los comensales.
 
 - **Gestión de Personal**:
-  - Asignar estaciones de trabajo a los meseros y runners, asegurando una distribución adecuada del personal para una operación fluida.
+  - Asignar estaciones de trabajo a los meseros y garroteros, asegurando una distribución adecuada del personal para una operación fluida.
   - Supervisar y apoyar al equipo durante el servicio, proporcionando orientación y resolución de problemas en tiempo real.
 
 - **Atención al Cliente**:
