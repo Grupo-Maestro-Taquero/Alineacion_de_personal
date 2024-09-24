@@ -58,4 +58,4 @@
   - Manejar y resolver quejas o problemas que puedan surgir con los clientes.
 
 - **Mantenimiento y Seguridad**:
-  - Asegurar que la unidad cumpla con todas las normativas de seguridad y mantenimiento, manteniendo un ambiente seguro y limpio para empleados y clientes.
+  - Asegurar que la unidad cumpla con todas las normativas de seguridad y mantenimiento, manteniendo un ambiente seguro y limpio para colaboradores y clientes.

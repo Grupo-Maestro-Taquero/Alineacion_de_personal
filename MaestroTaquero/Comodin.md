@@ -26,7 +26,7 @@
 
 - **Apoyo Operativo y Flexibilidad**:
   - Repartir pedidos cuando sea necesario.
-  - Enseñar actividades a otros empleados con una actitud proactiva.
+  - Enseñar actividades a otros colaboradores con una actitud proactiva.
   - Ayudar en otras tareas necesarias para que el servicio en la cocina sea eficiente.
 
 - **Las áreas a las que se les brinda el apoyo son:**

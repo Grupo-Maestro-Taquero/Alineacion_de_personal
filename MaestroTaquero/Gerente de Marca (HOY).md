@@ -13,11 +13,11 @@
 - Apoyo en áreas de cocina.
 
 ### Gestión de Personal
-- Conocer a empleados.
+- Conocer a colaboradores.
 - Enseñar a capitanes.
 - Realizar horarios.
 - Contratación y/o reclutamiento.
-- Equilibrar sanciones a empleados.
+- Equilibrar sanciones a colaboradores.
 - Motivar a personal.
 - Fomentar el buen trato.
 - Fomentar puntualidad y profesionalismo.
