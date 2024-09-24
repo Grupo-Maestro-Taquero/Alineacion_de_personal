@@ -8,12 +8,12 @@ El **Garrotero** es responsable de apoyar a los meseros en el servicio de alimen
 
 - **Edad**: 18 a 40 años.
 - **Género**: Indistinto.
-- **Experiencia**: No necesaria, pero deseable al menos 6 meses en un puesto similar en restaurantes o taquerías.
+- **Experiencia**: Al menos 6 meses.
 - **Conocimientos**:
   - **Manejo de charolas** para servir alimentos y bebidas.
   - Conocimientos básicos de servicio en restaurante.
   - Nociones de limpieza y mantenimiento de mesas.
-- **Presentación**: Buena presentación personal, con uniforme limpio y actitud profesional.
+- **Presentación**: Es fundamental que el candidato mantenga un alto nivel de cuidado en su apariencia personal, incluyendo una vestimenta limpia y bien planchada, zapatos boleados y una actitud siempre profesional.
 - **Actitud**:
   - Dinámico y con disposición para trabajar en equipo.
   - Actitud de servicio y atención al cliente.
@@ -31,8 +31,7 @@ El **Garrotero** es responsable de apoyar a los meseros en el servicio de alimen
   - Limpiar la loza y cubiertos cuando sea necesario.
 
 - **Atención al cliente**:
-  - Estar atento a las necesidades de los comensales, asegurando que siempre tengan lo necesario en su mesa.
-  - Ser amable y servicial en todo momento, brindando apoyo adicional cuando sea requerido.
+  - Estar atento a las necesidades de los comensales, asegurando que siempre tengan lo necesario para garantizar la eficiencia del servicio al cliente.
 
 - **Soporte en la operación**:
   - Apoyar en la organización y limpieza general del área de trabajo.
@@ -50,6 +49,6 @@ El **Garrotero** es responsable de apoyar a los meseros en el servicio de alimen
 - **Ambiente dinámico y de trabajo en equipo**.
 - **Capacitación continua** para mejorar en el puesto.
 - **Oportunidades de crecimiento** dentro del Grupo Maestro Taquero.
-- **Salario competitivo** y prestaciones de ley.
+- **Salario competitivo**.
 
 Si eres una persona dinámica, con actitud de servicio y te gusta trabajar en un entorno retador, ¡únete al equipo del **Grupo Maestro Taquero** como **Garrotero**!
