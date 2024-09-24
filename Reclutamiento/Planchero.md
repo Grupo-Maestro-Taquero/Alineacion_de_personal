@@ -7,11 +7,11 @@ Preparar y cocinar alimentos en la plancha, incluyendo parrillas, cortes, costra
 
 #### **Requisitos**
 
-- **Edad**: 25 a 50 años.
-- **Género**: Indistinto.
+- **Edad**: 18 a 50 años.
+- **Sexo**: Indistinto.
 - **Experiencia**: Mínimo 1 año en manejo de plancha.
 - **Conocimientos**:
-  - Manejo de parrilla, cortes de carne, preparación de costras, burritos, gringas, y otros platillos en la plancha.
+  - Manejo de parrilla, cortes de carne, preparación de costras, burritos, gringas, y otros platillos en la plancha. Términos de cocción de carne.
 - **Presentación**: Buena presentación personal, apropiada para el puesto y alineada con los estándares del restaurante.
 
 ---
@@ -19,11 +19,11 @@ Preparar y cocinar alimentos en la plancha, incluyendo parrillas, cortes, costra
 #### **Responsabilidades Principales**
 
 - **Cocción en la Plancha**:
-  - Cocinar carnes, costras, burritos, gringas, y otros alimentos en la plancha, siguiendo los tiempos y temperaturas adecuados para asegurar que los platillos estén bien cocidos y sabrosos.
+  - Cocinar carnes, costras, burritos, gringas, y otros alimentos en la plancha, siguiendo los tiempos y temperaturas adecuados para asegurar que los platillos estén bien ejecutados.
   - Controlar la temperatura de la plancha para garantizar una cocción uniforme y de alta calidad.
 
 - **Preparación de Cortes y Parrilla**:
-  - Preparar y cocinar cortes de carne en la parrilla, asegurando que se mantengan jugosos y en el punto adecuado.
+  - Preparar y cocinar cortes de carne en la plancha.
   - Manejar las costras y otros complementos de manera precisa, logrando la textura y presentación deseada.
 
 - **Montaje de Platillos**:
@@ -31,12 +31,11 @@ Preparar y cocinar alimentos en la plancha, incluyendo parrillas, cortes, costra
   - Supervisar las porciones y la consistencia de los platillos para mantener la calidad en cada servicio.
 
 - **Mantenimiento de la Estación**:
-  - Mantener limpia y ordenada la estación de trabajo, incluyendo la plancha, parrilla, cuchillos y otros utensilios.
-  - Realizar el mantenimiento básico de la plancha y la parrilla, asegurando que estén en buen estado para el siguiente turno.
+  - Mantener limpia y ordenada la estación de trabajo, incluyendo la plancha, cuchillos y otros utensilios, antes, durante y después del servicio.
 
 - **Control de Insumos**:
-  - Verificar que haya suficientes ingredientes y cortes de carne disponibles durante el servicio, solicitando reabastecimiento cuando sea necesario.
-  - Asegurar que los ingredientes se almacenen correctamente y se mantengan frescos.
+  - Verificar que haya suficientes ingredientes y cortes de carne disponibles durante el servicio, verificando los PEPS y reabasteciendose cuando sea necesario.
+  - Asegurar la rotación de producto para garantizar el estándar de calidad.
 
 - **Colaboración en la Cocina**:
   - Trabajar en conjunto con otros miembros del equipo de cocina para asegurar un servicio fluido y eficiente.
