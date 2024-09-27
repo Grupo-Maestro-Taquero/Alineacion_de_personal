@@ -1,11 +1,9 @@
-## Planchero
+# Planchero
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Preparar y cocinar alimentos en la plancha, incluyendo parrillas, cortes, costras, burritos, gringas, y carnes, asegurando que todos los platillos cumplan con los estándares de calidad y presentación del restaurante.
 
----
-
-#### **Requisitos**
+## Requisitos
 
 - **Edad**: 18 a 50 años.
 - **Sexo**: Indistinto.
@@ -14,9 +12,7 @@ Preparar y cocinar alimentos en la plancha, incluyendo parrillas, cortes, costra
   - Manejo de parrilla, cortes de carne, preparación de costras, burritos, gringas, y otros platillos en la plancha. Términos de cocción de carne.
 - **Presentación**: Buena presentación personal, apropiada para el puesto y alineada con los estándares del restaurante.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Cocción en la Plancha**:
   - Cocinar carnes, costras, burritos, gringas, y otros alimentos en la plancha, siguiendo los tiempos y temperaturas adecuados para asegurar que los platillos estén bien ejecutados.

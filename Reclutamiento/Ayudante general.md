@@ -1,13 +1,11 @@
-## Ayudante General
+# Ayudante General
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina y logística, para asegurar que todas las operaciones se realicen de manera eficiente.
 
----
+## Requisitos
 
-#### **Requisitos**
-
-- **Edad**: 19 a 50 años.
+- **Edad**: 18 a 45 años.
 - **Género**: Indistinto.
 - **Experiencia**: 6 meses en un puesto similar, puede ser en una fonda o puesto informal.
 - **Conocimientos**:
@@ -18,9 +16,7 @@ Apoyar en diversas áreas del restaurante, realizando tareas básicas de cocina 
 - **Restricciones Geográficas**: No se aceptan candidatos de las siguientes delegaciones: Magdalena Contreras, Naucalpan, Cuautitlán, Álvaro Obregón, Tlalpan, Xochimilco, Azcapotzalco (El Rosario), Huixquilucan, Tlalnepantla, Atizapán, Chalco, Ecatepec (excepto para la posición de gerente).
 - **Estabilidad Laboral**: Si el candidato no tiene mucha estabilidad laboral, se requerirá que tenga dependientes económicos o responsabilidades que demuestren compromiso.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Tareas Básicas de Cocina**:
   - Picar, lavar, y cortar ingredientes según las instrucciones del chef o cocinero principal.

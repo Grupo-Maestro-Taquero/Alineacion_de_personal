@@ -1,23 +1,19 @@
-## Pastorero
+# Pastorero
 
-#### **Objetivo del Puesto**
-Preparar y cocinar tacos al pastor, asegurando que el trompo esté montado correctamente y que la carne se cocine y sirva de manera uniforme, cumpliendo con los estándares de calidad del restaurante.
+## **Objetivo del Puesto**
+Preparar y cocinar tacos al pastor, asegurando que el trompo esté montado correctamente y que la carne se cocine y sirva de manera uniforme, cumpliendo con los estándares de calidad del restaurante. Garantizar las cebollas de cortesía bien cocidas.
 
----
-
-#### **Requisitos**
+## **Requisitos**
 
 - **Edad**: 25 a 50 años.
-- **Género**: Indistinto.
-- **Experiencia**: Mínimo de 2 años como pastorero.
+- **Sexo**: Hombre.
+- **Experiencia**: Mínimo de 1 año como pastorero.
 - **Conocimientos**:
-  - Montaje de trompos con capacidad de 30 a 40 kilos de carne.
+  - Montaje de trompos con capacidad de 30 o más kilos de carne.
   - Habilidad para bajar y cortar el pastor de manera eficiente.
 - **Presentación**: No tatuajes en la cara.
 
----
-
-#### **Responsabilidades Principales**
+## **Responsabilidades Principales**
 
 - **Montaje del Trompo**:
   - Montar el trompo de pastor con precisión, asegurando que la carne esté bien sazonada y colocada correctamente para una cocción uniforme.

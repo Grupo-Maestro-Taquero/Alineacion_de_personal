@@ -1,13 +1,13 @@
-## Cajero
+# Cajero
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Gestionar de manera precisa y eficiente las transacciones financieras del restaurante, asegurando el manejo adecuado de la caja, ofreciendo un servicio amable al cliente y colaborando con el equipo para mantener la operación fluida.
 
 ---
 
-#### **Requisitos**
+## Requisitos
 
-- **Edad**: 23 a 50 años.
+- **Edad**: 18 a 45 años.
 - **Género**: Indistinto.
 - **Experiencia**: Mínimo 1 año en el mismo puesto (deseable en restaurante).
 - **Conocimientos**:
@@ -24,7 +24,7 @@ Gestionar de manera precisa y eficiente las transacciones financieras del restau
 
 ---
 
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Manejo de Caja**:
   - Gestionar las transacciones de pago de manera eficiente y precisa, utilizando terminales bancarias y efectivo.

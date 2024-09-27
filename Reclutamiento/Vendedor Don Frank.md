@@ -1,11 +1,9 @@
-## Vendedor Don Frank
+# Vendedor Don Frank
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Brindar una excelente experiencia al comensal, desde la presentación del lugar y sus productos hasta la oferta de alimentos y bebidas, asegurando que el cliente se sienta bien atendido y satisfecho.
 
----
-
-#### **Requisitos**
+## Requisitos
 
 - **Edad**: 19 a 50 años.
 - **Género**: Indistinto.
@@ -16,9 +14,7 @@ Brindar una excelente experiencia al comensal, desde la presentación del lugar 
 - **Restricciones Geográficas**: No se aceptan candidatos de las siguientes delegaciones: Magdalena Contreras, Naucalpan, Cuautitlán, Álvaro Obregón, Tlalpan, Xochimilco, Azcapotzalco (El Rosario), Huixquilucan, Tlalnepantla, Atizapán, Chalco, Ecatepec (excepto para la posición de gerente).
 - **Estabilidad Laboral**: Si el candidato no tiene mucha estabilidad laboral, se requerirá que tenga dependientes económicos o responsabilidades que demuestren compromiso.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Atención al Cliente**:
   - Recibir a los comensales de manera amable y profesional.

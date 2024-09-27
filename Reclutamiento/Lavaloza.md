@@ -1,13 +1,11 @@
-## Lavaloza
+# Lavaloza
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Mantener todos los platos, utensilios y cristalería limpios y organizados, asegurando que el restaurante cuente con el equipo necesario para un servicio eficiente.
 
----
+## Requisitos
 
-#### **Requisitos**
-
-- **Edad**: 19 a 50 años.
+- **Edad**: 18 a 50 años.
 - **Género**: Indistinto.
 - **Experiencia**: Mínimo de 8 meses de experiencia como lavaloza. Se puede considerar experiencia en trabajos pesados o turnos largos sin experiencia directa en lavaloza.
 - **Conocimientos**:
@@ -16,9 +14,7 @@ Mantener todos los platos, utensilios y cristalería limpios y organizados, aseg
 - **Restricciones Geográficas**: No se aceptan candidatos de las siguientes delegaciones: Magdalena Contreras, Naucalpan, Cuautitlán, Álvaro Obregón, Tlalpan, Xochimilco, Azcapotzalco (El Rosario), Huixquilucan, Tlalnepantla, Atizapán, Chalco, Ecatepec (excepto para la posición de gerente).
 - **Estabilidad Laboral**.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Limpieza de Loza y Utensilios**:
   - Lavar y desinfectar todos los platos, cubiertos, vasos y otros utensilios de cocina, asegurando que estén limpios y listos para su uso.

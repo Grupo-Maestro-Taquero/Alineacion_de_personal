@@ -1,13 +1,11 @@
-## Fuentero
+# Fuentero
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Preparar y servir aguas frescas, jugos y otros productos relacionados, manteniendo la calidad y frescura de las bebidas, y asegurando que se sirvan de manera eficiente y con una excelente presentación.
 
----
+## Requisitos
 
-#### **Requisitos**
-
-- **Edad**: 25 a 45 años.
+- **Edad**: 18 a 45 años.
 - **Género**: Indistinto.
 - **Experiencia**: Mínimo de 6 meses como fuentero o en la preparación de aguas y jugos.
 - **Conocimientos**:
@@ -15,9 +13,7 @@ Preparar y servir aguas frescas, jugos y otros productos relacionados, mantenien
   - Manejo adecuado de ingredientes y equipos para la elaboración de bebidas.
 - **Presentación**: Buena presentación personal, apropiada para el puesto y alineada con los estándares del restaurante.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Preparación de Bebidas**:
   - Elaborar aguas frescas y jugos naturales siguiendo las recetas y estándares de calidad del restaurante.

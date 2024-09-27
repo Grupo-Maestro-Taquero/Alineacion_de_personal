@@ -1,13 +1,11 @@
-## Tortillera
+# Tortillera
 
-#### **Objetivo del Puesto**
+## Objetivo del Puesto
 Preparar y cocinar tortillas, sopes, y quesadillas de manera artesanal, asegurando que todos los productos cumplan con los estándares de calidad y se sirvan frescos y en el tiempo adecuado.
 
----
+## Requisitos
 
-#### **Requisitos**
-
-- **Edad**: 20 a 50 años.
+- **Edad**: 18 a 55 años.
 - **Género**: Indistinto.
 - **Experiencia**: Mínimo 1 año como tortillera.
 - **Conocimientos**:
@@ -16,9 +14,7 @@ Preparar y cocinar tortillas, sopes, y quesadillas de manera artesanal, aseguran
   - Experiencia en la preparación de quesadillas, sopes, y tortillas.
 - **Presentación**: Aseado(a) y con buena imagen.
 
----
-
-#### **Responsabilidades Principales**
+## Responsabilidades Principales
 
 - **Preparación de Masa**:
   - Preparar y amasar la masa para tortillas, sopes, y quesadillas, asegurando que tenga la consistencia y sabor adecuados.
