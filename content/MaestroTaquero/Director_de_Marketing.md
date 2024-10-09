@@ -1,3 +1,14 @@
+---
+title: "Director de marketing"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo del puesto"
+description: "Objetivo del puesto"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Director de Marketing - Grupo Maestro Taquero
 
 ## Objetivo del puesto

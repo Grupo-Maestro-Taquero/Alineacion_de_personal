@@ -1,3 +1,14 @@
+---
+title: "Pastorero"
+date: "2024-10-08"
+draft: "false"
+summary: "**Objetivo del Puesto**"
+description: "**Objetivo del Puesto**"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Pastorero
 
 ## **Objetivo del Puesto**

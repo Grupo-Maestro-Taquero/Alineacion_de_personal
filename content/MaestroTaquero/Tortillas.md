@@ -1,3 +1,14 @@
+---
+title: "Tortillas"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo Principal"
+description: "Objetivo Principal"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Tortillas/Huaraches (Maestro Taquero)
 
 ## Objetivo Principal

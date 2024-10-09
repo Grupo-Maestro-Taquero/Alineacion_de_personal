@@ -1,3 +1,14 @@
+---
+title: "Gerente de marca (hoy)"
+date: "2024-10-08"
+draft: "false"
+summary: "Gerente de Marca (HOY)"
+description: "Gerente de Marca (HOY)"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 ## Gerente de Marca (HOY)
 
 ### Supervisión y Operaciones

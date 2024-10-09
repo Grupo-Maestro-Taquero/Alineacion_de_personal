@@ -1,3 +1,14 @@
+---
+title: "Encargado de reclutamiento sintesis"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo del Puesto"
+description: "Objetivo del Puesto"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Perfil de Reclutamiento: Encargado de Reclutamiento
 
 ## Objetivo del Puesto

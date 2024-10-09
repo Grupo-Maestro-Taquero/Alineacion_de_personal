@@ -1,3 +1,14 @@
+---
+title: "Gerente de marca"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo del Puesto"
+description: "Objetivo del Puesto"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Perfil de Reclutamiento: Gerente de Marca - Grupo Maestro Taquero
 
 ## Objetivo del Puesto

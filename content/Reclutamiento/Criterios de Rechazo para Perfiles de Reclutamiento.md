@@ -1,3 +1,14 @@
+---
+title: "Criterios de rechazo para perfiles de reclutamiento"
+date: "2024-10-08"
+draft: "false"
+summary: "Criterios de Rechazo para Perfiles de Reclutamiento"
+description: "Criterios de Rechazo para Perfiles de Reclutamiento"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 ## Criterios de Rechazo para Perfiles de Reclutamiento
 
 1. **Alta Rotación Laboral**:

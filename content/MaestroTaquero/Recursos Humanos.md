@@ -1,3 +1,14 @@
+---
+title: "Recursos humanos"
+date: "2024-10-08"
+draft: "false"
+summary: "Recursos Humanos"
+description: "Recursos Humanos"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 ## Recursos Humanos
 
 ### Reclutamiento y Selección

@@ -1,3 +1,14 @@
+---
+title: "Director comercial"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo Principal del Puesto"
+description: "Objetivo Principal del Puesto"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Director Comercial - Grupo Maestro Taquero
 
 ## Objetivo Principal del Puesto

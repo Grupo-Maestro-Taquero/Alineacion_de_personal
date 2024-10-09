@@ -1,3 +1,14 @@
+---
+title: "Director de tecnología e innovación"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo del Puesto"
+description: "Objetivo del Puesto"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Director de Tecnología e Innovación - Grupo Maestro Taquero
 
 ## Objetivo del Puesto

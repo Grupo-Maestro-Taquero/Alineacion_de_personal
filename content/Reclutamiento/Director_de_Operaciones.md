@@ -1,3 +1,14 @@
+---
+title: "Director de operaciones"
+date: "2024-10-08"
+draft: "false"
+summary: "Objetivo principal"
+description: "Objetivo principal"
+tags: "Blog"
+author: "Maestro Taquero"
+authorimage: "../assets/images/site-logo.png"
+categories: "Blog"
+---
 # Director de Operaciones - Grupo Maestro Taquero
 
 ## Objetivo principal
