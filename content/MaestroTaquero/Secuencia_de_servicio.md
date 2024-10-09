@@ -1,14 +1,3 @@
----
-title: "Secuencia de servicio"
-date: "2024-10-01"
-draft: "false"
-summary: "Servicio en mesa"
-description: "Servicio en mesa"
-tags: "Blog"
-author: "Maestro Taquero"
-authorimage: "../assets/images/site-logo.png"
-categories: "Blog"
----
 # Secuencia de Servicio para Meseros y Vendedores en DON FRANK
 
 ### Presentación Personal

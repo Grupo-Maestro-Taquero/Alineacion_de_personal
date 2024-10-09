@@ -1,14 +1,3 @@
----
-title: "Valores del equipo"
-date: "2024-10-01"
-draft: "false"
-summary: "Habilidades y cultura del grupo"
-description: "Habilidades y cultura del grupo"
-tags: "Blog"
-author: "Maestro Taquero"
-authorimage: "../assets/images/site-logo.png"
-categories: "Blog"
----
 ## Habilidades y cultura del grupo
 
 ### 1. **Trabajo en Equipo**

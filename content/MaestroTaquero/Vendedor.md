@@ -1,14 +1,3 @@
----
-title: "Vendedor"
-date: "2024-10-01"
-draft: "false"
-summary: "Objetivo Principal"
-description: "Objetivo Principal"
-tags: "Blog"
-author: "Maestro Taquero"
-authorimage: "../assets/images/site-logo.png"
-categories: "Blog"
----
 # Vendedor / Mesero (Maestro Taquero)
 
 ## Objetivo Principal
